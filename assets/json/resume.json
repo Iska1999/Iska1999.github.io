@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Mohamad El Iskandarani",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "eliskandarani.m@gmail.com",
+    //"phone": "(912) 123-4567",
+    "url": "https://iska1999.github.io",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    //"location": {
+    //  "address": "2712 Broadway St",
+    //  "postalCode": "CA 94115",
+    //  "city": "San Francisco",
+    //  "countryCode": "US",
+    //  "region": "California"
+    //},
+    //"profiles": [
+     // {
+      //  "network": "Twitter",
+      //  "username": "AlbertEinstein",
+     //   "url": "https://twitter.com/AlbertEinstein"
+     // }
+    //]
   },
   "work": [
     {
@@ -30,8 +30,18 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "highlights": [ "Relativity" ]
+    },
+    {
+      "name": "Prussian Academy of Sciences, Berlin, Germany",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1914-01-01",
+      "endDate": "1933-01-01",
+      "summary": "Appointed to the Prussian Academy of Sciences in Berlin, where I had a special position that relieved me of teaching duties.",
+      "highlights": [ "General Relativity" ]
     }
+
   ],
   "volunteer": [
     {
